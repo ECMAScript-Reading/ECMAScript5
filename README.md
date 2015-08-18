@@ -11,5 +11,5 @@
 
 后续逐渐展开
 
-## 原文地址如下
+### ECMAScript官方地址如下：
 [Standard ECMA-262 5.1Edition ECMAScript &copy; Language Specification](http://www.ecma-international.org/ecma-262/5.1/)
